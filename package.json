@@ -1,0 +1,36 @@
+{
+  "name": "coming-soon",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@formatjs/intl": "^2.6.3",
+    "@formatjs/intl-pluralrules": "^5.1.8",
+    "@next/font": "13.1.2",
+    "babel-polyfill": "^6.26.0",
+    "ionicons": "^6.1.1",
+    "js-polyfills": "^0.1.43",
+    "next": "13.1.2",
+    "next-seo": "^5.15.0",
+    "prop-types": "^15.8.1",
+    "react": "18.2.0",
+    "react-context": "^0.0.3",
+    "react-dom": "18.2.0",
+    "react-icon-library": "^0.1.45",
+    "react-icons": "^4.7.1",
+    "react-icons-kit": "^2.0.0",
+    "react-intl": "^6.2.5",
+    "react-reveal": "^1.2.2",
+    "react-scroll-parallax": "^3.3.2",
+    "styled-components": "^5.3.6"
+  },
+  "devDependencies": {
+    "@formatjs/cli": "^5.1.12",
+    "babel-plugin-formatjs": "^10.3.35"
+  }
+}
